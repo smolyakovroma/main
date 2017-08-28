@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.easyway</groupId>
-    <artifactId>main</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>eway</artifactId>
+    <version>1</version>
     <packaging>jar</packaging>
 
-    <name>easyway</name>
+    <name>eway</name>
     <description>easy buy easy sell</description>
 
     <build>
